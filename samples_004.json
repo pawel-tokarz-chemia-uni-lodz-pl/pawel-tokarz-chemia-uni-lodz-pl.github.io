@@ -1,0 +1,98 @@
+[
+  {
+    "groupName": "TEST",
+    "children": [
+      {
+        "file": "4-nitroindole10mmolar.cosy.topspin.zip",
+        "title": "lalala",
+        "selected": true
+      },
+      {
+        "file": "./ethylbenzene/cosy.nmrium",
+        "title": "COSY ethylbenzene"
+      },
+      {
+        "file": "./xtc/XTClight.nmrium",
+        "title": "Ecstasy pills spectra"
+      },
+      {
+        "file": "./coffee/coffee.nmrium",
+        "title": "Coffee extract"
+      },
+      {
+        "file": "./108-21-4/index.nmrium",
+        "title": "13C Coupled / Decoupled"
+      }
+    ]
+  },
+  {
+    "groupName": "Cytisine",
+    "children": [
+      {
+        "file": "./cytisine/1h.nmrium",
+        "title": "1H"
+      },
+      {
+        "file": "./cytisine/dept/dept.nmrium",
+        "title": "DEPT"
+      },
+      {
+        "file": "./cytisine/13c.fid.nmrium",
+        "title": "13C FID"
+      },
+      {
+        "file": "./cytisine/processed13C.nmrium",
+        "title": "Processed 13C Spectrum"
+      },
+      {
+        "file": "./cytisine/2d/hmbc.nmrium",
+        "title": "HMBC"
+      },
+      {
+        "file": "./cytisine/2d/hsqc.nmrium",
+        "title": "HSQC"
+      },
+      {
+        "file": "./cytisine/2d/hsqc-hmbc.nmrium",
+        "title": "HSQC / HMBC"
+      },
+      {
+        "file": "./cytisine/index.nmrium",
+        "title": "Full cytisine"
+      },
+      {
+        "file": "./cytisine/2d/hmqc-hn.nmrium",
+        "title": "1H - 15N HMQC"
+      }
+    ]
+  },
+  {
+    "groupName": "Ibuprofen",
+    "children": [
+      {
+        "file": "./ibuprofen/60_cdcl3.nmrium",
+        "title": "60 MHz (CDCl3)"
+      },
+      {
+        "file": "./ibuprofen/400_cdcl3.nmrium",
+        "title": "400 MHz (CDCl3)"
+      },
+      {
+        "file": "./ibuprofen/600_cdcl3.nmrium",
+        "title": "600 MHz (CDCl3)"
+      },
+      {
+        "file": "./ibuprofen/60_600_cdcl3.nmrium",
+        "title": "60 + 600 MHz"
+      },
+      {
+        "file": "./ibuprofen/400_dmso.nmrium",
+        "title": "400 MHz (DMSO)"
+      },
+      {
+        "file": "./ibuprofen/600_dmso.nmrium",
+        "title": "600 MHz (DMSO)"
+      }
+    ]
+  }
+]
