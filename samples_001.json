@@ -1,10 +1,10 @@
 [
   {
-    "groupName": "General",
+    "groupName": "TEST",
     "children": [
       {
-        "file": "./ethylvinylether/index.nmrium",
-        "title": "Ethyl vinyl ether",
+        "file": ".4-nitroindole10.hsqc.topspin.zip",
+        "title": "lalala",
         "selected": true
       },
       {
