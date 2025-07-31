@@ -1,0 +1,18 @@
+[
+  {
+    "groupName": "TEST",
+    "children": [
+      {
+        "file": "./demo_nmrium/1h.nmrium",
+        "title": "lalala",
+        "selected": true
+      },
+      {
+        "file": "./demo_nmrium/cosy2.nmrium",
+        "title": "cozaczek",
+        "selected": true
+      }
+    ]
+  }
+
+]
