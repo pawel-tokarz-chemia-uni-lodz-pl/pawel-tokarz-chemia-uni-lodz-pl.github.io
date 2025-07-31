@@ -1,0 +1,13 @@
+[
+  {
+    "groupName": "TEST",
+    "children": [
+      {
+        "file": "./demo_nmrium/index.nmrium",
+        "title": "lalala",
+        "selected": true
+      }
+    ]
+  }
+
+]
